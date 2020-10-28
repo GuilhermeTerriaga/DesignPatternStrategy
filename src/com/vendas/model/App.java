@@ -7,7 +7,7 @@ package com.vendas.model;
 
 /**
  *
- * @author wolley
+ * @author Guilherme
  */
 public class App {
  
